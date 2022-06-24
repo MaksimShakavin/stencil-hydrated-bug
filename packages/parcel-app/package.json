@@ -1,0 +1,17 @@
+{
+  "name": "parcel-app",
+  "version": "0.0.0",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "dependencies": {
+    "stencil-library": "0.0.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.6.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
